@@ -35,7 +35,3 @@ more_vert
 
 expand_content
 add_photo_alternatephoto_camera
-
-mic
-send
-Gemini may display 
