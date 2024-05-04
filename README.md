@@ -12,26 +12,9 @@ The example creates a new BlogPost object with a title, content, and leaves the 
 It then prints the title and calls the getExcerpt() method to display a snippet of the content.
 Learning Points:
 
-This example showcases:
-Class definition and properties.
-Using a constructor for object initialization.
-Default values with the nullish coalescing operator (??).
-Defining and using methods.
-Static return types for better code readability.
-Feel free to:
-
-Modify this code to experiment with different functionalities.
-Create multiple blog post objects and explore adding additional properties and methods.
-
-
-
-tune
-
-share
-
-
-more_vert
-
-
-expand_content
-add_photo_alternatephoto_camera
+- This example showcases:
+- Class definition and properties.
+- Using a constructor for object initialization.
+- Default values with the nullish coalescing operator (??).
+- Defining and using methods.
+- Static return types for better code readability.
